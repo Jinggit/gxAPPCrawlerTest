@@ -17,8 +17,8 @@
         "noReset": "false"
     },
     "androidCapability": {
-        "deviceName": "Galaxy Notes",
-        "appPackage": "guoxin.app.android",
+        "deviceName": "ColorOS",
+        "appPackage": "com.jin91.preciousmetal",
         "appActivity": "guoxin.app.android.activity.start.StartActivity",
         "app": "/Users/guanhua.jing/Downloads/guoxinjinfu.apk"
     },
